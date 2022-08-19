@@ -1,7 +1,4 @@
-function convert() {
-	gb = 0;
-	length = 0;
-	
+function convert() {	
 	gb = parseInt(document.getElementById('gb').value);
 	length = parseInt(document.getElementById('length').value);
 	
