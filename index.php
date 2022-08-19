@@ -2,17 +2,13 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title>Stream Bitrate Calculator</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=9, IE=edge" />
         <meta name='robots' content='noindex,follow' />
+        <title>Stream Bitrate Calculator</title>
         <link rel="stylesheet" href="assets/css/styles.css" />
-		<script src="assets/scripts/js/functions.js"></script>
-        <style>
-            html, body {
-                overflow:hidden !important;
-            }
-        </style>
+	<script src="assets/scripts/js/functions.js"></script>
+        <style> html, body { overflow:hidden !important; } </style>
     </head>
     <body>
         <div class="content">
